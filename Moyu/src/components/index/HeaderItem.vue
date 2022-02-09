@@ -16,11 +16,11 @@ export default {
 </script>
 
 <style scoped>
-.container {
-  color: #ddd;
+.container {  
+  color: rgb(0, 0, 0);
 }
 .container:hover{
   color: #aaa;
-  box-shadow: 0px -2px 0px aliceblue inset;
+  box-shadow: 0px -5px 0px rgba(253, 168, 11, 0.787) inset;
 }
 </style>
